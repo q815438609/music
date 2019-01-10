@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using WebApplication1.Models;
 
-namespace MvcMusicStore.Controllers
+namespace WebApplication1.Controllers
 {
     public class StoreController : Controller
     {
