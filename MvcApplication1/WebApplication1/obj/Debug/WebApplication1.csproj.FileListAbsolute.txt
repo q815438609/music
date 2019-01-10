@@ -158,6 +158,5 @@ D:\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.Razor.resources.dll
 D:\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\MvcApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\MvcApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\MvcApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
