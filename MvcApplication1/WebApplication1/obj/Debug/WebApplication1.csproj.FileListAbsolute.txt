@@ -193,6 +193,5 @@ D:\music\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.Razor.resources.
 D:\music\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.resources.dll
 D:\music\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 D:\music\MvcApplication1\WebApplication1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-D:\music\MvcApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\music\MvcApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\music\MvcApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
